@@ -15,7 +15,7 @@
 
 ## About Me
 
-I'm a Software Engineering graduate from **FAST-NUCES** with hands-on experience building native Android and cross-platform mobile apps. I specialize in multi-module Clean Architecture, performant UI with Jetpack Compose and Flutter, and secure third-party integrations — from on-device ML to Stripe payments.
+I'm a Software Engineering graduate with hands-on experience building native Android and cross-platform mobile apps. I specialize in multi-module Clean Architecture, performant UI with Jetpack Compose and Flutter, and secure third-party integrations from on-device ML to Stripe payments.
 
 I care about code that's not just working, but maintainable, testable, and built to scale.
 
