@@ -39,14 +39,14 @@ I care about code that's not just working, but maintainable, testable, and built
 
 ## 🚀 Featured Projects
 
-### [My Anntac](https://hassanzahidd.github.io/project-myanntac.html) — Secure Scanning & Intelligent Archiving
+### [My Anntac](https://hassanzahidd.github.io/project-myanntac.html) — Secure Scanning & Archiving
 > Native Android · Kotlin · Jetpack Compose · Hilt · Room · WorkManager · Google ML Kit
 
 A multi-module Jetpack Compose app for document scanning and secure backend archiving. Built with Clean Architecture and strict separation of concerns — featuring offline queuing via WorkManager, intelligent on-device document capture with ML Kit, and profile-based upload management.
 
 ---
 
-### [Hablillah](https://hassanzahidd.github.io/project-Hablillah.html) — Education Management, Reimagined
+### [Hablillah](https://hassanzahidd.github.io/project-Hablillah.html) — Education Management
 > Cross-Platform · Flutter · Firebase Auth
 
 A Flutter-based student–teacher management app with role-based access control, Firebase authentication, quiz management, and attendance tracking.
