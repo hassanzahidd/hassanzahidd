@@ -2,7 +2,7 @@
 
 <p align="center">
   <b>Mobile Engineer · Android (Kotlin & Compose) · Flutter · KMP</b><br/>
-  Building high-fidelity mobile experiences — clean architecture, fluid UI, scalable code.
+  Building high-fidelity mobile experiences — clean architecture, better UI, scalable code.
 </p>
 
 <p align="center">
@@ -24,16 +24,16 @@ I care about code that's not just working, but maintainable, testable, and built
 ## 🛠 Tech Stack
 
 **Languages & Frameworks**
-`Kotlin` `Java` `Dart` `Jetpack Compose` `Flutter` `Spring Boot`
+`Kotlin` `Java` `Dart` `Jetpack Compose` `Flutter` `Spring Boot` `Kotlin Multiplatform`
 
 **Architecture & Design Patterns**
 `Clean Architecture` `MVVM` `MVC` `Multi-Module`
 
 **Libraries & Tools**
-`Hilt` `Retrofit` `Coroutines/Flow` `Ktor` `WorkManager` `Google ML Kit` `Stripe SDK` `Gradle Build Caching` `Git`
+`Hilt` `Retrofit` `Coroutines/Flow` `Ktor` `WorkManager` `Google ML Kit` `Stripe SDK` `Gradle` `Git`
 
 **Databases & Persistence**
-`Room` `Firebase` `MySQL` `MongoDB` `Oracle`
+`Room` `Firebase` `MySQL` `MongoDB`
 
 ---
 
@@ -42,7 +42,7 @@ I care about code that's not just working, but maintainable, testable, and built
 ### [My Anntac](https://hassanzahidd.github.io/project-myanntac.html) — Secure Scanning & Archiving
 > Native Android · Kotlin · Jetpack Compose · Hilt · Room · WorkManager · Google ML Kit
 
-A multi-module Jetpack Compose app for document scanning and secure backend archiving. Built with Clean Architecture and strict separation of concerns — featuring offline queuing via WorkManager, intelligent on-device document capture with ML Kit, and profile-based upload management.
+A multi-module Jetpack Compose app for document scanning and secure backend archiving. Built with Clean Architecture and strict separation of concerns, document capture with ML Kit, and profile-based upload management.
 
 ---
 
@@ -83,7 +83,7 @@ Integrated RESTful APIs with third-party services and revamped the UI with React
 
 ## 📫 Let's Connect
 
-If you're working on something interesting — a mobile product, a complex integration, or a codebase that needs rescuing — I'd love to hear about it.
+If you're working on something interesting — a mobile product, a complex integration, or a codebase that needs updating, I'd love to hear about it.
 
 → **[hassanzahidd@proton.me](mailto:hassanzahidd@proton.me)**
 → **[hassanzahidd.github.io](https://hassanzahidd.github.io)**
